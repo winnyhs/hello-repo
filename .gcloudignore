@@ -1,0 +1,13 @@
+.git/
+.github/
+.idea/
+.gitignore
+.gcloudignore
+.pytest_cache/
+myvenv/
+venv/
+.venv/
+__pycache__
+*.swp
+*.swo
+*~
